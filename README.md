@@ -1,5 +1,5 @@
 # hi My name is isgrom.h.n👋
-## this is my README file👍
+# this is my README file👍
 <!--
 **isgrom/isgrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
