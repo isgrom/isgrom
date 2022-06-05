@@ -1,5 +1,4 @@
-### Hi there 👋
----
+### Hi there 
 
 **isgrom/isgrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![this is an image]("C:\Users\gxc93\OneDrive\Desktop\404.png")
